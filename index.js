@@ -9,7 +9,7 @@ const printSquareNumbers = (n) => {
     console.log(squares);
 
   }
-  console.log(`Sum of all squares: ${total}`);
+  console.log(`Sum of all square numbers: ${total}`);
 }
 printSquareNumbers(5);
 //will print: 1, 4, 9, 16, 25
